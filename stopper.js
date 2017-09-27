@@ -1,0 +1,2 @@
+//Automation stopper
+classInterval(a)
